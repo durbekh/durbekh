@@ -7,7 +7,6 @@ Hello my name is Durbek
 ### 🌐 Frontend:
 - **HTML5** – sahifa tuzilmasi
 - **CSS3** – dizayn, responsive layout
-- 🚧 Hozirda **JavaScript** ni o‘rganishni rejalashtiryapman
 
 ### 🔙 Backend (asosiy yo‘nalishim):
 - **Python** – sintaksis, funksiya, obyektlar

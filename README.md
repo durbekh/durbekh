@@ -40,12 +40,7 @@
 Agar sizda savollar bo‘lsa yoki hamkorlikni istasangiz, quyidagi manzillar orqali bog‘laning:
 
 <div align="center">
-  <a href="https://t.me/YourTelegramUsername">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+ <h1> BOG'LANISH MUMKIN EMAS </h1>
 </div>
 
 ---
